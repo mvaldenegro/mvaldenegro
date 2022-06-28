@@ -1,4 +1,4 @@
-I am a researcher at the Interactive Machine Learning team of the [German Research Center for Artificial Intelligence](www.dfki.de), [Robotics Innovation Center](robotik.dfki-bremen.de/) in Bremen, Germany. Before returning to Germany, I was a Marie Curie Fellow at the Ocean Systems Lab at Heriot-Watt University.
+I am a Assistant Professor for Machine Learning with Education Profile at the Department of Artificial Intelligence, University of Groningen. Previously  I was researcher at the [German Research Center for Artificial Intelligence](www.dfki.de), [Robotics Innovation Center](robotik.dfki-bremen.de/) in Bremen, Germany. Before returning to Germany, I was a Marie Curie Fellow at the Ocean Systems Lab at Heriot-Watt University.
 
 I am interested in making robots be able to “see” and perceive just as humans do. My research interests are in Deep Neural Networks, Reinforcement Learning, Uncertainty Quantification, Robot Vision, and Underwater Robotics.
 
